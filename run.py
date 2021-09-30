@@ -1,2 +1,3 @@
-command = input('''Gitube 1.0 (made by ByeongJunHan)
+while True:
+    command = input('''Gitube 1.0 (made by ByeongJunHan)
 >>>''')
